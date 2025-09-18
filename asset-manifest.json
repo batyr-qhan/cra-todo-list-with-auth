@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cra-todo-list-with-auth/static/css/main.00e7a38e.css",
+    "main.js": "/cra-todo-list-with-auth/static/js/main.de782b36.js",
+    "index.html": "/cra-todo-list-with-auth/index.html",
+    "main.00e7a38e.css.map": "/cra-todo-list-with-auth/static/css/main.00e7a38e.css.map",
+    "main.de782b36.js.map": "/cra-todo-list-with-auth/static/js/main.de782b36.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00e7a38e.css",
+    "static/js/main.de782b36.js"
+  ]
+}
