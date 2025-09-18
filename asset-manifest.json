@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/cra-todo-list-with-auth/static/css/main.00e7a38e.css",
-    "main.js": "/cra-todo-list-with-auth/static/js/main.af12d618.js",
+    "main.js": "/cra-todo-list-with-auth/static/js/main.17a418fd.js",
     "index.html": "/cra-todo-list-with-auth/index.html",
     "main.00e7a38e.css.map": "/cra-todo-list-with-auth/static/css/main.00e7a38e.css.map",
-    "main.af12d618.js.map": "/cra-todo-list-with-auth/static/js/main.af12d618.js.map"
+    "main.17a418fd.js.map": "/cra-todo-list-with-auth/static/js/main.17a418fd.js.map"
   },
   "entrypoints": [
     "static/css/main.00e7a38e.css",
-    "static/js/main.af12d618.js"
+    "static/js/main.17a418fd.js"
   ]
 }
